@@ -6,3 +6,5 @@ Ziwei Li,
 Zhirui Cheng,
 Zhe Xi,
 Yuchen Fei
+
+For quick glance, refer to the .pdf files, main code refer to the main code.ipynb
